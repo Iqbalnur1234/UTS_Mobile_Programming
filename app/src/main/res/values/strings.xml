@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">List Pemain PSIS SEMARANG</string>
+    <string name="players_name">Nama PEemain</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Iqbal Nur Al Sandi</string>
+    <string name="akun">Email</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Iqbal Nur Al Sandi</item>
+    </string-array>
+    <string-array name="data_email">
+        <item>iqbalasoyy@std.unissula.ac.id</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/tebe</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>adisatryo</item>
+        <item>giovani</item>
+        <item>wahyuprasetyo</item>
+        <item>lucasgama</item>
+        <item>dewangga</item>
+        <item>diarra</item>
+        <item>marukawa</item>
+        <item>galifreitas</item>
+        <item>vitinho</item>
+        <item>carlosfortes</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Name:Adisatryo\nNationality:Indonesia Indonesia\nBorn:juli 7, 2001 (age 23)\nStatus:Active\nKiper \n\n\n
+            Muhammad Adi Satryo adalah seorang pesepak bola asal Indonesia. Saat ini, Muhammad Adi Satryo bermain di klub asal Indonesia, PSIS Semarang. Muhammad Adi Satryo lahir di Tangerang Selatan, Banten Indonesia, 7 Juli 2001. Posisi bermain bertinggi 179 cm ini adalah kiper.Mulai dari Jandia, Joko Ribowo, hingga Wahyu Tri Nugroho. Terkini, ada M Adi Satryo. Dua penampilan Adi Sat sebagai penjaga gawang PSIS sangat menenangkan, walau tanpa di perkuat bek asing,” tulisnya. Ya, Adi Satryo selama ini kerap dipanggil Timnas Indonesia dan terakhir ia menjadi salah satu penjaga gawang Timnas senior saat lolos Kualifikasi Piala Asia dan ia juga menjadi bagian Timnas U-23 saat mendapatkan medali perunggu di SEA Games di Vietnam tahun lalu</item>
+        <item>Name:Giovani\nNationality:Indonesia Indonesia\nBorn:april 22, 2000 (age 23)\nStatus:Active\nBek kiri\n\n\n
+             PSIS Semarang kembali mengumumkan perekrutan pemain baru menjelang kompetisi sepakbola Liga 1 dimulai. Giovani Numberi diumumkan sebagai pemain baru Laskar Mahesa Jenar.Pemain yang menempati posisi bek sayap ini sebelumnya bermain di Persipura Jayapura yakni Giovani Numberi.Sebelumnya, pemain asal Papua ini sempat melaksanakan trial bersama PSIS di paruh musim BRI Liga 1 2022/2023 kemarin..</item>
+
+        <item>Name:Wahyuprasetyo\nNationality:Indonesia Indonesia\nBorn:maret 21, 1998 (age 25)\nStatus:Active\nBek tengah\n\n\n
+            Sebagai informasi, Wahyu Prasetyo, atau yang kerap dijuluki Hulk, ini merupakan pesepak bola yang berasal dari Kabupaten Batang, Jawa Tengah. Dia tercatat lahir pada 21 Maret 1998. Kini, usianya telah menginjak 25 tahun.Hulk sudah melewati sejumlah tempaan saat masih muda. Dia tercatat pernah berlatih bersama tim Porprov Kabupaten Kendal (2017), Puslat Kendal (2017), hingga menembus tim Pekalongan U-21.Meskipun demikian, Hulk bisa terus menampilkan performa yang konsisten bersama Mahesa Jenar. Pada musim 2021-2022, dia mencatatkan 30 penampilan di Liga 1. Musim berikutnya, Hulk mengukir 22 pertandingan.</item>
+
+        <item>Name:Lucasgama\nNationality:Brazil Brazil\nBorn:juli 21, 1993 (age 30)\nStatus:Active\nBek tengah\n\n\n
+            Kehadiran Lucas Gama membuat aura sepak bola Malta di klub Liga 1, PSIS Semarang, semakin kental. Gama mengikuti jejak Taisei Marukawa yang lebih dahulu menjadi icon tim Mahesa Jenar. Seperti apa jejak kariernya? berikut profil Lucas Gama.Lucas Gama merupakan sosok yang sudah lama masuk dalam rumor bursa transfer PSIS. Lucas Gama berstatus free transfer setelah resmi cabut dari Persikabo 1973.Rumor itu nyatanya bukan isapan jempol belaka. Lucas Gama benar-benar sudah dekat ke tim ibu kota Jawa Tengah tersebut. Lucas Gama sudah sepekan ini gabung dalam latihan PSIS Semarang.Meski rekam jejaknya sangat menjanjikan, tetapi PSIS memberlakukan sejumlah tes sebelum resmi menandatangani kontrak dan dirilis ke publik.Kehadiran Lucas Gama jelas akan membuat lini belakang PSIS sangat kokoh. Bek berusia 29 tahun ini mempunyai postur tubuh yang ideal dan pengalaman panjang dalam kariernya..</item>
+
+        <item>Name:Dewangga\nNationality:Indonesia Indonesia\nBorn:Juni 28, 2001 (age 22)\nStatus:Active\nGelandang bertahan\n\n\n
+            Manuel "Nnael" Simbolon (sebelumnya dikenal sebagai Vi Mornov) adalah pemain Indonesia yang saat ini bermain sebagai Jungler untuk Geek Fam ID dengan status pinjaman dari ONIC Prodigy.Merupakan Pemain yang Cukup Muda Melihat catatannya di Liquipedia, karir MLBB Nnael dimulai bersama ONIC Prodigy pada awal tahun 2022.Ia aktif mengikuti berbagai pertandingan hingga pertengahan tahun 2023, setelah itu masuk ke dalam daftar pemain tidak aktif.Sayangnya, selama bermain bersama ONIC Prodigy, ia belum berhasil mengangkat trofi dari kejuaraan-kejuaraan besar.Namun, dengan bergabung di tim Geek Fam ID, diharapkan Nnael bisa meraih kemenangan yang diimpikannya.Saat wawancara dengan media di MPL ID Season 12, Vyn memberikan pendapatnya tentang Nnael.Vyn mengakui bahwa Nnael adalah pemain dengan potensi besar dan berharap pengalaman Vyn dapat membantu Nnael menjadi pemain yang hebat.</item>
+
+        <item>Name:Diarra\nNationality:Francis Francis\nBorn:Agustus 30, 1993 (age 30)\nStatus:Active\nGelandang bertahan\n\n\n
+            Merujuk Transfermarkt, Boubakary adalah pemain berkebangsaan Prancis yang berusia 29 tahun.Sebelum bermain untuk PSIS Semarang, dia bermain di tim Mosta FC untuk Liga MaltaSelama bermain di Mosta FC, Boubakary mencatatkan 23 penampilan dengan sumbangan 1 gol dan 2 assits lalu mendapat 3 kartu kuning.Untuk saat ini harga pasaran Boubakary Diarra senilai Rp 4,35 miliar. Namun terkait jumlah yang diajukan PSIS Semarang tentunya belum diungkap karena belum diperkenalkan.</item>
+
+        <item>Name:Marukawa\nNationality:Jepang Jepang\nBorn:Januari 30, 1997 (age 26)\nStatus:Active\nGelandang serang\n\n\n
+            Taisei Marukawa adalah pemain asing asal Jepang yang kini berada di klub sepak bola Indonesia. Sebelum berada di klub sepak bola Semarang (PSIS), Taisei awalnnya adalah pemain asing Persebaya.Setelah berpindah dari klub Persebaya ke PSIS Semarang, Ia akui dapatkan gaji dua kali lipat lebih besar. Saat ini, Taisei berpenghasilan sebanyak pemain reguler J1 League.Saat ini, Taisei bertempat tinggal disalah satu perumahan yang memiliki penjagaan ketat oleh dua satpam. Tak hanya itu, ia juga dapat rasakan liburan mewah saat tengah bersantai mengisi waktu luang.</item>
+
+        <item>Name:Galifreitas\nNationality:Timorleste Timorleste\nBorn:Desember 31, 2004 (age 18)\nStatus:Active\nSayap kiri\n\n\n
+            PSIS Semarang mendatangkan pemain asal Timor Leste, Paulo Gali Freitas untuk satu slot pemain asing dari ASEAN,” bunyi pernyataan PSIS di laman resmi mereka, Jumat (2/6/2023).Paulo Gali didatangkan PSIS untuk memenuhi slot pemain ASEAN di Liga 1 2023-2024 mendatang. Bagi pencinta sepakbola Tanah Air, nama Paulo Gali tidaklah asing.Sebab Paulo Gali sempat dituduh mencuri umur saat tampil di Piala AFF U-15 2019. Pada saat itu pemain kelahiran 31 Desember 2004 tersebut dianggap memalsukan tahun kelahirannya dari 1996 menjadi 2004.</item>
+
+        <item>Name:Vitinho\nNationality:Brazil Brazi\nBorn:Mei 10, 1993 (age 30)\nStatus:Active\nSayap kanan\n\n\n
+            Vitinho rekrutan anyar PSIS Semarang di putaran kedua Nama Vitinho, memang sudah beberapa pekan dirumorkan bakal diboyong klub Liga 1 musim ini.Namun terkait dimana pemain ini akan berlabuh masih menjadi tanda tanya.Vitinho saat ini berstatus tanpa klub, setelah klub asal Portugal Vitória Setúbal tak memperpanjang kontraknya dan akhirnya Vitinho memutuskan buat memperkuat tim PSIS SEMARANG. </item>
+
+        <item>Name:Carlosfortes\nNationality:Portugal Portugal\nBorn:November 9, 1994 (age 28)\nStatus:Active\nStriker\n\n\n
+            Pemain bernama lengkap Carlos Manuel dos Santos Fortes ini ialah striker kelahiran Portugal pada 9 November 1994. Pemain berusia 28 tahun itu memulai karier di akademi Sacavenense Pada 2013, Fortes sempat jajal peruntungan di Spanyol dengan bergabung ke Racing Santander B. Di klub Spanyol itu, Fortes torehkan 10 gol dari 23 caps.Agama Carlos Fortes adalah hal privasi bagi pemain yang telah mencetak 6 gol dari 19 pertandingan untuk PSIS Semarang.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/adisatryo</item>
+        <item>@drawable/giovani</item>
+        <item>@drawable/wahyuprasetyo</item>
+        <item>@drawable/lucasgama</item>
+        <item>@drawable/dewangga</item>
+        <item>@drawable/diarra</item>
+        <item>@drawable/marukawa</item>
+        <item>@drawable/galifreitas</item>
+        <item>@drawable/vitinho</item>
+        <item>@drawable/carlosfortes</item>
+    </integer-array>
+</resources>
